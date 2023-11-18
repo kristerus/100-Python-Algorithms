@@ -1,0 +1,20 @@
+Question 8
+Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.
+Suppose the following input is supplied to the program.
+hello there.
+practice more.
+Then, the output should be:
+Hello there.
+Practice more.
+
+Hints:
+In case of input data being supplied to the question, it should be assumed to be a console input. Recommended to split the sentences with fullstops.
+
+
+Solution:
+
+capitaliser = input("Enter the senteces to capitalise.(seperate sentences with fullstops): ")
+capitaliser=capitaliser.split(". ")
+for i in range(len(capitaliser)):
+  print(capitaliser[i].capitalize())
+
