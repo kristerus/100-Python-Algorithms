@@ -1,0 +1,11 @@
+Question:
+    Write a method which can calculate square value of number
+
+Hints:
+    Using the ** operator
+
+def squarer(n):
+  print(n**2)
+
+squarer(5)
+
