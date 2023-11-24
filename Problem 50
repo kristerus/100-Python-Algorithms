@@ -1,0 +1,18 @@
+Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+Hints:
+
+Use try/except to catch exceptions.
+
+Solution:
+
+def executer():
+  return 5/0
+
+try:
+  executer()
+except zeroDivisionError:
+  print("Careful, this is division by 0")
+finally:
+  print("The finally block is for cleanup purposes")
+  
