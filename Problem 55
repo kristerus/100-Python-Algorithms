@@ -1,0 +1,13 @@
+Question:
+
+Print a unicode string "hello world".
+
+Hints:
+
+Use str.encode() to encode in utf-8 format.
+
+
+Solution:
+
+test="Hello world!"
+print(str.encode(test))
