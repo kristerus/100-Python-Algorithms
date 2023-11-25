@@ -1,10 +1,10 @@
-# 100-Python-Algorithms
+# 92-Python-Algorithms
 
 **Description:**
-Welcome to the Python Problem Set Repository—a comprehensive collection of 100 Python programming challenges designed to enhance your coding skills! This repository aims to provide a diverse set of problems spanning various difficulty levels, from beginner-friendly exercises to more advanced concepts, ensuring a holistic learning experience for programmers of all levels.
+Welcome to the Python Problem Set Repository—a comprehensive collection of 92 Python programming challenges designed to enhance your coding skills! This repository aims to provide a diverse set of problems spanning various difficulty levels, from beginner-friendly exercises to more advanced concepts, ensuring a holistic learning experience for programmers of all levels.
 
 **Features:**
-- **100 Python Problems:** Dive into a curated selection of Python challenges covering a wide array of topics, including data structures, algorithms, string manipulation, logic puzzles, and more.
+- **92 Python Problems:** Dive into a curated selection of Python challenges covering a wide array of topics, including data structures, algorithms, string manipulation, logic puzzles, and more.
 - **Clear Problem Statements:** Each problem is accompanied by a clear and concise problem statement, outlining the task to be accomplished.
 - **Optimal Solutions:** Explore optimal solutions for each problem, providing insights into different approaches and best practices for tackling specific coding challenges.
 - **Contributions:** Open to contributions! Feel free to submit your own problem solutions or suggest new problems to expand the repository and foster a collaborative learning environment.
